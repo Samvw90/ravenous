@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../../logo.svg';
 import './App.css';
 import '../BusinessList/BusinessList';
 import SearchBar from '../SearchBar/SearchBar';
