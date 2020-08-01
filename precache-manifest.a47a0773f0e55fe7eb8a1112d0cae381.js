@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce476edcefc89f474ebe1801716f6697",
+    "revision": "24359c669addd9b33259987ec6f198b9",
     "url": "/ravenous/index.html"
   },
   {
-    "revision": "1336a52ac202dbe732c8",
+    "revision": "62c9c4a69308f0a6eac6",
     "url": "/ravenous/static/css/main.2f045a32.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ravenous/static/js/2.4f2af0f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1336a52ac202dbe732c8",
-    "url": "/ravenous/static/js/main.ea6df195.chunk.js"
+    "revision": "62c9c4a69308f0a6eac6",
+    "url": "/ravenous/static/js/main.d3bb71d5.chunk.js"
   },
   {
     "revision": "9e12bad58d82799d27a7",
@@ -30,9 +30,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d0905e66c87b168792e1cf920c613ee",
     "url": "/ravenous/static/media/background_search_mobile.5d0905e6.jpg"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/ravenous/static/media/logo.5d5d9eef.svg"
   }
 ]);
